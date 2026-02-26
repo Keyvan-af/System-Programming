@@ -39,3 +39,5 @@
   - All running applications freeze and stop working
   - System typically needs to restart
 - **Example**: A faulty graphics driver crashes → entire computer freezes and shows BSOD
+
+---
